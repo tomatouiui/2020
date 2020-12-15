@@ -44,9 +44,9 @@ GitHub
 
 ## 跟着YouTuber学习人生
 - 今年发现了很多好的YouTuber
-  1. 自说自话的总裁 (https://www.youtube.com/channel/UCgo_-fjJxnLwwwq5dSY72rg) （总裁的昆虫系列，进化论，特别是王直系列。。。）
-  2. 乃一捂 （https://www.youtube.com/channel/UC-7Il-7Zo0xzcE1B8vJN7ug） （奶子哥教我怎么拍视频）
-  3. 青蛙刀圣 （https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw）（魔戒，哈利波特，加勒比海盗，达芬奇密码）
-  4. RS （https://www.youtube.com/channel/UCvAFi3Brfyci4XH7V3pGcpA）（快乐是什么？）
-  5. 小叔TV （https://www.youtube.com/channel/UCPNfoYdMopKZKlaTB92g-QQ）（嗯，不错）
-  6. 脑洞乌托邦 （https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g）（讲案件讲的特别好）
+  1. [自说自话的总裁](https://www.youtube.com/channel/UCgo_-fjJxnLwwwq5dSY72rg) （总裁的昆虫系列，进化论，特别是王直系列。。。）
+  2. [乃一捂](https://www.youtube.com/channel/UC-7Il-7Zo0xzcE1B8vJN7ug)（奶子哥教我怎么拍视频）
+  3. [青蛙刀圣](https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw)（魔戒，哈利波特，加勒比海盗，达芬奇密码）
+  4. [RS](https://www.youtube.com/channel/UCvAFi3Brfyci4XH7V3pGcpA)（快乐是什么？）
+  5. [小叔TV](https://www.youtube.com/channel/UCPNfoYdMopKZKlaTB92g-QQ)（嗯，不错）
+  6. [脑洞乌托邦](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g)（讲案件讲的特别好）
