@@ -54,6 +54,11 @@ GitHub
 - 小程序（IBM企业数字化实战营）
 - 小程序（IBM前沿洞察）
 
+### Study List
+
+- [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
+- [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
+
 ## 个人管理
 - OKR 1 修仙（不知道这个是真是假，但是感觉到了初步，在一次冥想课上感觉到了丹田气。）
   1. 筑基 --好多东西都不能吃的
