@@ -90,5 +90,5 @@ GitHub
   4. [RS](https://www.youtube.com/channel/UCvAFi3Brfyci4XH7V3pGcpA)（快乐是什么？）
   5. [小叔TV](https://www.youtube.com/channel/UCPNfoYdMopKZKlaTB92g-QQ)（嗯，不错）
   6. [脑洞乌托邦](https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g)（讲案件讲的特别好）
-  7. [讲真电影] (https://www.youtube.com/channel/UCJX2aqqhF2mPYKizkkXkH2Q)（一个神奇的姐姐，可惜停更了，姐姐对西部世界的理解出神入化）
-  8. [蔷仔说电影] (https://www.youtube.com/channel/UC_Udz5R0NCgLTWbmn-QiWGA)（一个很有厉害的金融小姐姐，从大空头喜欢上她）
+  7. [讲真电影](https://www.youtube.com/channel/UCJX2aqqhF2mPYKizkkXkH2Q)（一个神奇的姐姐，可惜停更了，姐姐对西部世界的理解出神入化）
+  8. [蔷仔说电影](https://www.youtube.com/channel/UC_Udz5R0NCgLTWbmn-QiWGA)（一个很有厉害的金融小姐姐，从大空头喜欢上她）
